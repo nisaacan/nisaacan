@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisaacan
 - 👀 I’m interested in front-end developing   
-- 🌱 I’m currently learning HTTP and CSS
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: nisacaner@live.com
 
 <!---
